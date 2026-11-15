@@ -111,7 +111,7 @@ Text-to-video and image-to-video generation.
 
 - **[Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** - Open source reproduction of Sora (OpenAI T2V model). ![Stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=flat-square)
 - **[LTX-Video](https://github.com/Lightricks/LTX-Video)** - Official repository for LTX-Video. ![Stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=flat-square)
-- **[UnWatermarkGemini](https://unwatermarkgemini.com/)** - Free, open-source browser & CLI tool that removes visible Google Gemini, Nano Banana, and Veo 3 watermarks locally via reverse alpha blending ([Source Code](https://github.com/unwatermarkgemini-oss/FalconX-unwatermark-gemini-remover))
+- **[UnWatermarkGemini](https://unwatermarkgemini.com/)** - Free, open-source browser & CLI tool that removes visible Google Gemini, Nano Banana, and Veo 3 watermarks locally via reverse alpha blending ([Source Code](https://github.com/unwatermarkgemini-oss/FalconX-unwatermark-gemini-remover)). | [https://img.shields.io/github/stars/unwatermarkgemini-oss/FalconX-unwatermark-gemini-remover] |
 
 ## Image Generation
 
